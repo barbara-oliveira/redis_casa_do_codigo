@@ -15,8 +15,8 @@ public class Application {
         String resultadoGet = jedis.get("ultimo_usuario_logado");
         System.out.println(resultadoGet);
 
-        String resultadoDel = String.valueOf(jedis.del("ultimo_usuario_logado"));
-        System.out.println(resultadoDel);
+//        String resultadoDel = String.valueOf(jedis.del("ultimo_usuario_logado"));
+//        System.out.println(resultadoDel);
 
     }
 }
