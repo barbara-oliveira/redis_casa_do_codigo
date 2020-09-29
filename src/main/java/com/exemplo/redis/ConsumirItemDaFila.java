@@ -1,4 +1,4 @@
-package com.example.redis;
+package com.exemplo.redis;
 
 import com.google.gson.Gson;
 import redis.clients.jedis.Jedis;

@@ -1,4 +1,4 @@
-package com.example.redis;
+package com.exemplo.redis;
 
 public class Incremento {
     public static void main(String[] args) {

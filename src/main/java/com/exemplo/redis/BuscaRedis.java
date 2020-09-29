@@ -1,6 +1,4 @@
-package com.example.redis;
-
-import java.util.Set;
+package com.exemplo.redis;
 
 public class BuscaRedis {
     public static void main(String[] args) {

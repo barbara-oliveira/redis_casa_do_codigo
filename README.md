@@ -5,7 +5,7 @@ Exemplos do livro "Armazenando dados com Redis" do Rodrigo Lazoti
 
   - Baixe o código fonte: https://redis.io/download
   - Descompacte e entre na pasta redis-6.x.x via linha de comando
-  - Rode o comando make
+  - Execute o comando make
   - Entre em ./src
   - Execute o comando ./redis-server
   - Execute o comando ./redis-cli
@@ -32,3 +32,10 @@ DEL: Remove o registro através de chave que é recebida como parâmetro.
 ```sh
 $ DEL ultimo_usuario_logado
 ```
+
+### Tipos de dados 
+
+- String
+- Hash
+- Set
+- Sorted Set 
