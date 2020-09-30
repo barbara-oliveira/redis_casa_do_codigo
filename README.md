@@ -36,6 +36,7 @@ $ DEL ultimo_usuario_logado
 ### Tipos de dados 
 
 - String
+- List
 - Hash
 - Set
 - Sorted Set 
